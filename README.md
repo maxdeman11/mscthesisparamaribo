@@ -1,13 +1,24 @@
-# MScthesisParamaribo
-MSc thesis NbS for Water Management in Paramaribo:
-Full thesis report will be posed soon on the TU Delft repository. This repository is created for two parts of the thesis:
+# MSc Thesis: Nature-based Solutions for Water Management in Paramaribo
 
-1. Data analysis of the response of a **full-scale test** of a bioswale at the AdeKUS campus in Paramaribo, Suriname.
-Code is provided for converting TD-Diver data into water levels
-Data analysis including figures is provided
+**Author:** Max de Man (TU Delft & Deltares)
 
-3. **Simulations** of the potential effect of NbS under different climate and implementation scenarios for Wakapasi, which is a neighborhood in Paramaribo.
-More information of the model used for these simulations can be found here: https://publicwiki.deltares.nl/display/AST/Urban+Water+balance+model
+*Note: The full thesis report will be posted soon on the TU Delft repository.*
 
+---
 
+This repository is created to support two main parts of the thesis:
 
+## 1. Data Analysis of Bioswale Response at AdeKUS Campus, Paramaribo
+
+- A comprehensive analysis of the response of a full-scale test bioswale located at the AdeKUS campus in Paramaribo, Suriname.
+- Includes code for converting TD-Diver data into water level measurements.
+- Provides detailed data analysis and accompanying figures.
+
+## 2. Simulations of Nature-based Solutions (NbS) for Wakapasi Neighborhood
+
+- Simulations exploring the potential impact of NbS under various climate and implementation scenarios for the Wakapasi neighborhood in Paramaribo.
+- Detailed information about the model used for these simulations can be found [here](https://publicwiki.deltares.nl/display/AST/Urban+Water+balance+model).
+
+---
+
+For further details, please refer to the full thesis report once it is available on the TU Delft repository.
