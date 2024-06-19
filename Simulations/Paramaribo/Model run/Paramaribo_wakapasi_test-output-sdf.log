@@ -1,0 +1,405 @@
+2024-04-30 12:16:48,929 - BRSDF_logger - main - batch_run_sdf - INFO - Baseline pumping capacity is 4.4 mm/d to make fixed marks
+2024-04-30 12:16:51,234 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 0.5 mm/d over entire area
+2024-04-30 12:16:54,155 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:16:54,156 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:16:54,160 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:16:54,167 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 0.5 mm/d is 0.0000 m
+2024-04-30 12:16:54,198 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 1.0 mm/d over entire area
+2024-04-30 12:16:58,228 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:16:58,229 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:16:58,230 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:16:58,246 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 1.0 mm/d is 0.0000 m
+2024-04-30 12:16:58,263 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 1.5 mm/d over entire area
+2024-04-30 12:17:01,846 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:01,846 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:01,846 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:01,850 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 1.5 mm/d is 0.0000 m
+2024-04-30 12:17:01,861 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 2.0 mm/d over entire area
+2024-04-30 12:17:03,886 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:03,887 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:03,887 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:03,891 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 2.0 mm/d is 0.0000 m
+2024-04-30 12:17:03,895 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 2.5 mm/d over entire area
+2024-04-30 12:17:05,531 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:05,533 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:05,533 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:05,539 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 2.5 mm/d is 0.0000 m
+2024-04-30 12:17:05,545 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 3.0 mm/d over entire area
+2024-04-30 12:17:09,481 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:09,482 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:09,482 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:09,486 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 3.0 mm/d is 0.0000 m
+2024-04-30 12:17:09,495 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 3.5 mm/d over entire area
+2024-04-30 12:17:11,652 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:11,652 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:11,653 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:11,657 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 3.5 mm/d is 0.0000 m
+2024-04-30 12:17:11,666 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.0 mm/d over entire area
+2024-04-30 12:17:13,731 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:13,731 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:13,731 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:13,735 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.0 mm/d is 0.0000 m
+2024-04-30 12:17:13,741 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.4 mm/d over entire area
+2024-04-30 12:17:15,919 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:15,919 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:15,919 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:15,924 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.4 mm/d is 0.0000 m
+2024-04-30 12:17:15,935 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.5 mm/d over entire area
+2024-04-30 12:17:17,787 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:17,787 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:17,787 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:17,791 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.5 mm/d is 0.0000 m
+2024-04-30 12:17:17,804 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 5.0 mm/d over entire area
+2024-04-30 12:17:19,603 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:19,603 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:19,604 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:19,610 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 5.0 mm/d is 0.0000 m
+2024-04-30 12:17:19,618 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 6.0 mm/d over entire area
+2024-04-30 12:17:21,218 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:21,218 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:21,218 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:21,223 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 6.0 mm/d is 0.0000 m
+2024-04-30 12:17:21,227 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 7.0 mm/d over entire area
+2024-04-30 12:17:23,224 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:23,224 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:23,224 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:23,228 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 7.0 mm/d is 0.0000 m
+2024-04-30 12:17:23,234 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 8.0 mm/d over entire area
+2024-04-30 12:17:25,126 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:25,127 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:25,128 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:25,133 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 8.0 mm/d is 0.0000 m
+2024-04-30 12:17:25,140 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 9.0 mm/d over entire area
+2024-04-30 12:17:26,582 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:26,584 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:26,584 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:26,588 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 9.0 mm/d is 0.0000 m
+2024-04-30 12:17:26,595 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 10.0 mm/d over entire area
+2024-04-30 12:17:28,126 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 10069.2, 'Q_out': 0.0, 'seepage': 0.0, 'storage diff': 0.0, 'balance diff': 64904.301733129294}
+2024-04-30 12:17:28,127 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:17:28,127 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:17:28,132 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 10.0 mm/d is 0.0000 m
+2024-04-30 12:21:38,332 - BRSDF_logger - main - batch_run_sdf - INFO - Baseline pumping capacity is 4.4 mm/d to make fixed marks
+2024-04-30 12:21:38,332 - BRSDF_logger - main - batch_run_sdf - INFO - Baseline pumping capacity is 4.4 mm/d to make fixed marks
+2024-04-30 12:21:41,088 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 0.5 mm/d over entire area
+2024-04-30 12:21:41,088 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 0.5 mm/d over entire area
+2024-04-30 12:21:45,654 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24818.74, 'Q_out': 6024.95, 'seepage': 0.0, 'storage diff': -43482.6, 'balance diff': 87612.4133216493}
+2024-04-30 12:21:45,654 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24818.74, 'Q_out': 6024.95, 'seepage': 0.0, 'storage diff': -43482.6, 'balance diff': 87612.4133216493}
+2024-04-30 12:21:45,656 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:21:45,656 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:21:45,657 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:21:45,657 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:21:45,686 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 0.5 mm/d is 1579.4256 m
+2024-04-30 12:21:45,686 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 0.5 mm/d is 1579.4256 m
+2024-04-30 12:21:45,717 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 1.0 mm/d over entire area
+2024-04-30 12:21:45,717 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 1.0 mm/d over entire area
+2024-04-30 12:21:49,720 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24818.87, 'Q_out': 12049.45, 'seepage': 0.0, 'storage diff': -37455.35, 'balance diff': 75560.52843294141}
+2024-04-30 12:21:49,720 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24818.87, 'Q_out': 12049.45, 'seepage': 0.0, 'storage diff': -37455.35, 'balance diff': 75560.52843294141}
+2024-04-30 12:21:49,721 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:21:49,721 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:21:49,722 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:21:49,722 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:21:49,737 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 1.0 mm/d is 1243.8867 m
+2024-04-30 12:21:49,737 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 1.0 mm/d is 1243.8867 m
+2024-04-30 12:21:49,744 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 1.5 mm/d over entire area
+2024-04-30 12:21:49,744 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 1.5 mm/d over entire area
+2024-04-30 12:21:53,221 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24822.59, 'Q_out': 18073.7, 'seepage': 0.0, 'storage diff': -31400.84, 'balance diff': 63478.05560560511}
+2024-04-30 12:21:53,221 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24822.59, 'Q_out': 18073.7, 'seepage': 0.0, 'storage diff': -31400.84, 'balance diff': 63478.05560560511}
+2024-04-30 12:21:53,222 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:21:53,222 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:21:53,223 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:21:53,223 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:21:53,227 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 1.5 mm/d is 907.4669 m
+2024-04-30 12:21:53,227 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 1.5 mm/d is 907.4669 m
+2024-04-30 12:21:53,238 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 2.0 mm/d over entire area
+2024-04-30 12:21:53,238 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 2.0 mm/d over entire area
+2024-04-30 12:21:56,157 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24845.65, 'Q_out': 24094.54, 'seepage': 0.0, 'storage diff': -25366.73, 'balance diff': 51400.04110243714}
+2024-04-30 12:21:56,157 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24845.65, 'Q_out': 24094.54, 'seepage': 0.0, 'storage diff': -25366.73, 'balance diff': 51400.04110243714}
+2024-04-30 12:21:56,157 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:21:56,157 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:21:56,157 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:21:56,157 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:21:56,161 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 2.0 mm/d is 571.1889 m
+2024-04-30 12:21:56,161 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 2.0 mm/d is 571.1889 m
+2024-04-30 12:21:56,167 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 2.5 mm/d over entire area
+2024-04-30 12:21:56,167 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 2.5 mm/d over entire area
+2024-04-30 12:21:58,467 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25117.45, 'Q_out': 28798.55, 'seepage': 0.0, 'storage diff': -20159.56, 'balance diff': 41217.063995308155}
+2024-04-30 12:21:58,467 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25117.45, 'Q_out': 28798.55, 'seepage': 0.0, 'storage diff': -20159.56, 'balance diff': 41217.063995308155}
+2024-04-30 12:21:58,467 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:21:58,467 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:21:58,467 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:21:58,467 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:21:58,472 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 2.5 mm/d is 291.8224 m
+2024-04-30 12:21:58,472 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 2.5 mm/d is 291.8224 m
+2024-04-30 12:21:58,478 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 3.0 mm/d over entire area
+2024-04-30 12:21:58,478 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 3.0 mm/d over entire area
+2024-04-30 12:22:00,625 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25633.72, 'Q_out': 31766.79, 'seepage': 0.0, 'storage diff': -16291.93, 'balance diff': 33864.91905491747}
+2024-04-30 12:22:00,625 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25633.72, 'Q_out': 31766.79, 'seepage': 0.0, 'storage diff': -16291.93, 'balance diff': 33864.91905491747}
+2024-04-30 12:22:00,625 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:00,625 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:00,625 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:00,625 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:00,630 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 3.0 mm/d is 96.3299 m
+2024-04-30 12:22:00,630 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 3.0 mm/d is 96.3299 m
+2024-04-30 12:22:00,636 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 3.5 mm/d over entire area
+2024-04-30 12:22:00,636 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 3.5 mm/d over entire area
+2024-04-30 12:22:02,733 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25957.81, 'Q_out': 32846.9, 'seepage': 0.0, 'storage diff': -14403.45, 'balance diff': 30572.233841571397}
+2024-04-30 12:22:02,733 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25957.81, 'Q_out': 32846.9, 'seepage': 0.0, 'storage diff': -14403.45, 'balance diff': 30572.233841571397}
+2024-04-30 12:22:02,733 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:02,733 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:02,733 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:02,733 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:02,738 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 3.5 mm/d is 48.7539 m
+2024-04-30 12:22:02,738 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 3.5 mm/d is 48.7539 m
+2024-04-30 12:22:02,744 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.0 mm/d over entire area
+2024-04-30 12:22:02,744 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.0 mm/d over entire area
+2024-04-30 12:22:05,038 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26380.12, 'Q_out': 32753.07, 'seepage': 0.0, 'storage diff': -13790.97, 'balance diff': 29631.275235061723}
+2024-04-30 12:22:05,038 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26380.12, 'Q_out': 32753.07, 'seepage': 0.0, 'storage diff': -13790.97, 'balance diff': 29631.275235061723}
+2024-04-30 12:22:05,039 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:05,039 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:05,039 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:05,039 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:05,044 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.0 mm/d is 32.7082 m
+2024-04-30 12:22:05,044 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.0 mm/d is 32.7082 m
+2024-04-30 12:22:05,051 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.4 mm/d over entire area
+2024-04-30 12:22:05,051 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.4 mm/d over entire area
+2024-04-30 12:22:07,177 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26491.03, 'Q_out': 32870.86, 'seepage': 0.0, 'storage diff': -13223.95, 'balance diff': 28835.56605816925}
+2024-04-30 12:22:07,177 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26491.03, 'Q_out': 32870.86, 'seepage': 0.0, 'storage diff': -13223.95, 'balance diff': 28835.56605816925}
+2024-04-30 12:22:07,177 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:07,177 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:07,178 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:07,178 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:07,183 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.4 mm/d is 30.2891 m
+2024-04-30 12:22:07,183 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.4 mm/d is 30.2891 m
+2024-04-30 12:22:07,191 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.5 mm/d over entire area
+2024-04-30 12:22:07,191 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.5 mm/d over entire area
+2024-04-30 12:22:09,518 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26518.71, 'Q_out': 32906.17, 'seepage': 0.0, 'storage diff': -13150.71, 'balance diff': 28699.326662245443}
+2024-04-30 12:22:09,518 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26518.71, 'Q_out': 32906.17, 'seepage': 0.0, 'storage diff': -13150.71, 'balance diff': 28699.326662245443}
+2024-04-30 12:22:09,519 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:09,519 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:09,519 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:09,519 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:09,523 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.5 mm/d is 29.7313 m
+2024-04-30 12:22:09,523 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.5 mm/d is 29.7313 m
+2024-04-30 12:22:09,533 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 5.0 mm/d over entire area
+2024-04-30 12:22:09,533 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 5.0 mm/d over entire area
+2024-04-30 12:22:11,634 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26628.56, 'Q_out': 33228.33, 'seepage': 0.0, 'storage diff': -12893.62, 'balance diff': 28010.23837370525}
+2024-04-30 12:22:11,634 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26628.56, 'Q_out': 33228.33, 'seepage': 0.0, 'storage diff': -12893.62, 'balance diff': 28010.23837370525}
+2024-04-30 12:22:11,635 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:11,635 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:11,635 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:11,635 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:11,639 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 5.0 mm/d is 27.3293 m
+2024-04-30 12:22:11,639 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 5.0 mm/d is 27.3293 m
+2024-04-30 12:22:11,644 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 6.0 mm/d over entire area
+2024-04-30 12:22:11,644 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 6.0 mm/d over entire area
+2024-04-30 12:22:13,728 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26757.04, 'Q_out': 33338.27, 'seepage': 0.0, 'storage diff': -12415.13, 'balance diff': 27293.32604191547}
+2024-04-30 12:22:13,728 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26757.04, 'Q_out': 33338.27, 'seepage': 0.0, 'storage diff': -12415.13, 'balance diff': 27293.32604191547}
+2024-04-30 12:22:13,728 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:13,728 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:13,728 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:13,728 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:13,735 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 6.0 mm/d is 22.6076 m
+2024-04-30 12:22:13,735 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 6.0 mm/d is 22.6076 m
+2024-04-30 12:22:13,742 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 7.0 mm/d over entire area
+2024-04-30 12:22:13,742 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 7.0 mm/d over entire area
+2024-04-30 12:22:15,791 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26739.64, 'Q_out': 33668.08, 'seepage': 0.0, 'storage diff': -12079.63, 'balance diff': 26645.409210466038}
+2024-04-30 12:22:15,791 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26739.64, 'Q_out': 33668.08, 'seepage': 0.0, 'storage diff': -12079.63, 'balance diff': 26645.409210466038}
+2024-04-30 12:22:15,792 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:15,792 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:15,792 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:15,792 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:15,798 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 7.0 mm/d is 18.1213 m
+2024-04-30 12:22:15,798 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 7.0 mm/d is 18.1213 m
+2024-04-30 12:22:15,805 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 8.0 mm/d over entire area
+2024-04-30 12:22:15,805 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 8.0 mm/d over entire area
+2024-04-30 12:22:18,143 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26769.96, 'Q_out': 33831.81, 'seepage': 0.0, 'storage diff': -11627.57, 'balance diff': 25999.30696610549}
+2024-04-30 12:22:18,143 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26769.96, 'Q_out': 33831.81, 'seepage': 0.0, 'storage diff': -11627.57, 'balance diff': 25999.30696610549}
+2024-04-30 12:22:18,143 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:18,143 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:18,143 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:18,143 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:18,149 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 8.0 mm/d is 14.9409 m
+2024-04-30 12:22:18,149 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 8.0 mm/d is 14.9409 m
+2024-04-30 12:22:18,156 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 9.0 mm/d over entire area
+2024-04-30 12:22:18,156 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 9.0 mm/d over entire area
+2024-04-30 12:22:20,287 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26764.98, 'Q_out': 34149.83, 'seepage': 0.0, 'storage diff': -11294.37, 'balance diff': 25353.064090786676}
+2024-04-30 12:22:20,287 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26764.98, 'Q_out': 34149.83, 'seepage': 0.0, 'storage diff': -11294.37, 'balance diff': 25353.064090786676}
+2024-04-30 12:22:20,287 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:20,287 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:20,288 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:20,288 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:20,292 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 9.0 mm/d is 13.1906 m
+2024-04-30 12:22:20,292 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 9.0 mm/d is 13.1906 m
+2024-04-30 12:22:20,298 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 10.0 mm/d over entire area
+2024-04-30 12:22:20,298 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 10.0 mm/d over entire area
+2024-04-30 12:22:22,728 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26787.38, 'Q_out': 34411.82, 'seepage': 0.0, 'storage diff': -10932.45, 'balance diff': 24706.765551325334}
+2024-04-30 12:22:22,728 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26787.38, 'Q_out': 34411.82, 'seepage': 0.0, 'storage diff': -10932.45, 'balance diff': 24706.765551325334}
+2024-04-30 12:22:22,729 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:22,729 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:22:22,729 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:22,729 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:22:22,734 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 10.0 mm/d is 12.9659 m
+2024-04-30 12:22:22,734 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 10.0 mm/d is 12.9659 m
+2024-04-30 12:30:13,404 - BRSDF_logger - main - batch_run_sdf - INFO - Baseline pumping capacity is 4.4 mm/d to make fixed marks
+2024-04-30 12:30:13,404 - BRSDF_logger - main - batch_run_sdf - INFO - Baseline pumping capacity is 4.4 mm/d to make fixed marks
+2024-04-30 12:30:17,289 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 0.5 mm/d over entire area
+2024-04-30 12:30:17,289 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 0.5 mm/d over entire area
+2024-04-30 12:30:20,263 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24818.74, 'Q_out': 6024.95, 'seepage': 0.0, 'storage diff': -43482.6, 'balance diff': 87612.4133216493}
+2024-04-30 12:30:20,263 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24818.74, 'Q_out': 6024.95, 'seepage': 0.0, 'storage diff': -43482.6, 'balance diff': 87612.4133216493}
+2024-04-30 12:30:20,265 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:20,265 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:20,267 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:20,267 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:20,274 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 0.5 mm/d is 1579.4256 m
+2024-04-30 12:30:20,274 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 0.5 mm/d is 1579.4256 m
+2024-04-30 12:30:20,279 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 1.0 mm/d over entire area
+2024-04-30 12:30:20,279 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 1.0 mm/d over entire area
+2024-04-30 12:30:23,286 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24818.87, 'Q_out': 12049.45, 'seepage': 0.0, 'storage diff': -37455.35, 'balance diff': 75560.52843294141}
+2024-04-30 12:30:23,286 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24818.87, 'Q_out': 12049.45, 'seepage': 0.0, 'storage diff': -37455.35, 'balance diff': 75560.52843294141}
+2024-04-30 12:30:23,286 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:23,286 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:23,287 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:23,287 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:23,292 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 1.0 mm/d is 1243.8867 m
+2024-04-30 12:30:23,292 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 1.0 mm/d is 1243.8867 m
+2024-04-30 12:30:23,307 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 1.5 mm/d over entire area
+2024-04-30 12:30:23,307 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 1.5 mm/d over entire area
+2024-04-30 12:30:25,851 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24822.59, 'Q_out': 18073.7, 'seepage': 0.0, 'storage diff': -31400.84, 'balance diff': 63478.05560560511}
+2024-04-30 12:30:25,851 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24822.59, 'Q_out': 18073.7, 'seepage': 0.0, 'storage diff': -31400.84, 'balance diff': 63478.05560560511}
+2024-04-30 12:30:25,852 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:25,852 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:25,852 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:25,852 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:25,856 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 1.5 mm/d is 907.4669 m
+2024-04-30 12:30:25,856 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 1.5 mm/d is 907.4669 m
+2024-04-30 12:30:25,863 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 2.0 mm/d over entire area
+2024-04-30 12:30:25,863 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 2.0 mm/d over entire area
+2024-04-30 12:30:28,143 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24845.65, 'Q_out': 24094.54, 'seepage': 0.0, 'storage diff': -25366.73, 'balance diff': 51400.04110243714}
+2024-04-30 12:30:28,143 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 24845.65, 'Q_out': 24094.54, 'seepage': 0.0, 'storage diff': -25366.73, 'balance diff': 51400.04110243714}
+2024-04-30 12:30:28,144 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:28,144 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:28,144 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:28,144 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:28,150 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 2.0 mm/d is 571.1889 m
+2024-04-30 12:30:28,150 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 2.0 mm/d is 571.1889 m
+2024-04-30 12:30:28,156 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 2.5 mm/d over entire area
+2024-04-30 12:30:28,156 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 2.5 mm/d over entire area
+2024-04-30 12:30:30,516 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25117.45, 'Q_out': 28798.55, 'seepage': 0.0, 'storage diff': -20159.56, 'balance diff': 41217.063995308155}
+2024-04-30 12:30:30,516 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25117.45, 'Q_out': 28798.55, 'seepage': 0.0, 'storage diff': -20159.56, 'balance diff': 41217.063995308155}
+2024-04-30 12:30:30,518 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:30,518 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:30,518 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:30,518 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:30,523 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 2.5 mm/d is 291.8224 m
+2024-04-30 12:30:30,523 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 2.5 mm/d is 291.8224 m
+2024-04-30 12:30:30,529 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 3.0 mm/d over entire area
+2024-04-30 12:30:30,529 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 3.0 mm/d over entire area
+2024-04-30 12:30:32,717 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25633.72, 'Q_out': 31766.79, 'seepage': 0.0, 'storage diff': -16291.93, 'balance diff': 33864.91905491747}
+2024-04-30 12:30:32,717 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25633.72, 'Q_out': 31766.79, 'seepage': 0.0, 'storage diff': -16291.93, 'balance diff': 33864.91905491747}
+2024-04-30 12:30:32,717 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:32,717 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:32,717 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:32,717 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:32,722 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 3.0 mm/d is 96.3299 m
+2024-04-30 12:30:32,722 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 3.0 mm/d is 96.3299 m
+2024-04-30 12:30:32,730 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 3.5 mm/d over entire area
+2024-04-30 12:30:32,730 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 3.5 mm/d over entire area
+2024-04-30 12:30:35,430 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25957.81, 'Q_out': 32846.9, 'seepage': 0.0, 'storage diff': -14403.45, 'balance diff': 30572.233841571397}
+2024-04-30 12:30:35,430 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 25957.81, 'Q_out': 32846.9, 'seepage': 0.0, 'storage diff': -14403.45, 'balance diff': 30572.233841571397}
+2024-04-30 12:30:35,432 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:35,432 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:35,433 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:35,433 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:35,499 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 3.5 mm/d is 48.7539 m
+2024-04-30 12:30:35,499 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 3.5 mm/d is 48.7539 m
+2024-04-30 12:30:35,512 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.0 mm/d over entire area
+2024-04-30 12:30:35,512 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.0 mm/d over entire area
+2024-04-30 12:30:39,375 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26380.12, 'Q_out': 32753.07, 'seepage': 0.0, 'storage diff': -13790.97, 'balance diff': 29631.275235061723}
+2024-04-30 12:30:39,375 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26380.12, 'Q_out': 32753.07, 'seepage': 0.0, 'storage diff': -13790.97, 'balance diff': 29631.275235061723}
+2024-04-30 12:30:39,375 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:39,375 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:39,376 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:39,376 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:39,381 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.0 mm/d is 32.7082 m
+2024-04-30 12:30:39,381 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.0 mm/d is 32.7082 m
+2024-04-30 12:30:39,388 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.4 mm/d over entire area
+2024-04-30 12:30:39,388 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.4 mm/d over entire area
+2024-04-30 12:30:41,790 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26491.03, 'Q_out': 32870.86, 'seepage': 0.0, 'storage diff': -13223.95, 'balance diff': 28835.56605816925}
+2024-04-30 12:30:41,790 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26491.03, 'Q_out': 32870.86, 'seepage': 0.0, 'storage diff': -13223.95, 'balance diff': 28835.56605816925}
+2024-04-30 12:30:41,791 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:41,791 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:41,791 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:41,791 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:41,796 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.4 mm/d is 30.2891 m
+2024-04-30 12:30:41,796 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.4 mm/d is 30.2891 m
+2024-04-30 12:30:41,804 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.5 mm/d over entire area
+2024-04-30 12:30:41,804 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 4.5 mm/d over entire area
+2024-04-30 12:30:44,123 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26518.71, 'Q_out': 32906.17, 'seepage': 0.0, 'storage diff': -13150.71, 'balance diff': 28699.326662245443}
+2024-04-30 12:30:44,123 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26518.71, 'Q_out': 32906.17, 'seepage': 0.0, 'storage diff': -13150.71, 'balance diff': 28699.326662245443}
+2024-04-30 12:30:44,124 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:44,124 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:44,124 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:44,124 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:44,128 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.5 mm/d is 29.7313 m
+2024-04-30 12:30:44,128 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 4.5 mm/d is 29.7313 m
+2024-04-30 12:30:44,134 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 5.0 mm/d over entire area
+2024-04-30 12:30:44,134 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 5.0 mm/d over entire area
+2024-04-30 12:30:46,259 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26628.56, 'Q_out': 33228.33, 'seepage': 0.0, 'storage diff': -12893.62, 'balance diff': 28010.23837370525}
+2024-04-30 12:30:46,259 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26628.56, 'Q_out': 33228.33, 'seepage': 0.0, 'storage diff': -12893.62, 'balance diff': 28010.23837370525}
+2024-04-30 12:30:46,260 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:46,260 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:46,260 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:46,260 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:46,264 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 5.0 mm/d is 27.3293 m
+2024-04-30 12:30:46,264 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 5.0 mm/d is 27.3293 m
+2024-04-30 12:30:46,269 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 6.0 mm/d over entire area
+2024-04-30 12:30:46,269 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 6.0 mm/d over entire area
+2024-04-30 12:30:48,680 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26757.04, 'Q_out': 33338.27, 'seepage': 0.0, 'storage diff': -12415.13, 'balance diff': 27293.32604191547}
+2024-04-30 12:30:48,680 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26757.04, 'Q_out': 33338.27, 'seepage': 0.0, 'storage diff': -12415.13, 'balance diff': 27293.32604191547}
+2024-04-30 12:30:48,680 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:48,680 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:48,681 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:48,681 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:48,685 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 6.0 mm/d is 22.6076 m
+2024-04-30 12:30:48,685 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 6.0 mm/d is 22.6076 m
+2024-04-30 12:30:48,691 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 7.0 mm/d over entire area
+2024-04-30 12:30:48,691 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 7.0 mm/d over entire area
+2024-04-30 12:30:51,160 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26739.64, 'Q_out': 33668.08, 'seepage': 0.0, 'storage diff': -12079.63, 'balance diff': 26645.409210466038}
+2024-04-30 12:30:51,160 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26739.64, 'Q_out': 33668.08, 'seepage': 0.0, 'storage diff': -12079.63, 'balance diff': 26645.409210466038}
+2024-04-30 12:30:51,160 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:51,160 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:51,160 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:51,160 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:51,165 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 7.0 mm/d is 18.1213 m
+2024-04-30 12:30:51,165 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 7.0 mm/d is 18.1213 m
+2024-04-30 12:30:51,171 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 8.0 mm/d over entire area
+2024-04-30 12:30:51,171 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 8.0 mm/d over entire area
+2024-04-30 12:30:53,750 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26769.96, 'Q_out': 33831.81, 'seepage': 0.0, 'storage diff': -11627.57, 'balance diff': 25999.30696610549}
+2024-04-30 12:30:53,750 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26769.96, 'Q_out': 33831.81, 'seepage': 0.0, 'storage diff': -11627.57, 'balance diff': 25999.30696610549}
+2024-04-30 12:30:53,751 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:53,751 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:30:53,751 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:53,751 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:30:53,759 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 8.0 mm/d is 14.9409 m
+2024-04-30 12:30:53,759 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 8.0 mm/d is 14.9409 m
+2024-04-30 12:30:53,776 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 9.0 mm/d over entire area
+2024-04-30 12:30:53,776 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 9.0 mm/d over entire area
+2024-04-30 12:31:00,535 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26764.98, 'Q_out': 34149.83, 'seepage': 0.0, 'storage diff': -11294.37, 'balance diff': 25353.064090786676}
+2024-04-30 12:31:00,535 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26764.98, 'Q_out': 34149.83, 'seepage': 0.0, 'storage diff': -11294.37, 'balance diff': 25353.064090786676}
+2024-04-30 12:31:00,536 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:31:00,536 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:31:00,536 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:31:00,536 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:31:00,540 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 9.0 mm/d is 13.1906 m
+2024-04-30 12:31:00,540 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 9.0 mm/d is 13.1906 m
+2024-04-30 12:31:00,554 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 10.0 mm/d over entire area
+2024-04-30 12:31:00,554 - BRSDF_logger - main - batch_run_sdf - INFO - Running: pumping capacity from open water to outside is 10.0 mm/d over entire area
+2024-04-30 12:31:02,976 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26787.38, 'Q_out': 34411.82, 'seepage': 0.0, 'storage diff': -10932.45, 'balance diff': 24706.765551325334}
+2024-04-30 12:31:02,976 - BRSDF_logger - main - batch_run_sdf - INFO - Entire model: {'rain': 74973.5, 'evap': 26787.38, 'Q_out': 34411.82, 'seepage': 0.0, 'storage diff': -10932.45, 'balance diff': 24706.765551325334}
+2024-04-30 12:31:02,976 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:31:02,976 - BRSDF_logger - main - batch_run_sdf - INFO - Measure itself: {'rain': 0.0, 'evap': 0, 'inflow runoff': 0.0, 'GW.rech': 0.0, 'OW.rech': 0.0, 'Q_swds': 0.0, 'Q_mss': 0.0, 'Q_out': 0.0, 'storage diff': 0, 'balance diff': 0.0}
+2024-04-30 12:31:02,977 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:31:02,977 - BRSDF_logger - main - batch_run_sdf - WARNING - ['WARNING: Water balance for entire model is NOT closed. Please recheck!']
+2024-04-30 12:31:02,981 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 10.0 mm/d is 12.9659 m
+2024-04-30 12:31:02,981 - BRSDF_logger - main - batch_run_sdf - INFO - Maximum storage height above target water level over open water for Q = 10.0 mm/d is 12.9659 m

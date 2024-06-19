@@ -1,0 +1,2 @@
+id_type,title,tot_area,pr_frac,cp_frac,op_frac,up_frac,ow_frac,soiltype,croptype,infilcap_up,infilcap_op,storcap_ow,gwl_t0,down_seepage_flux,vc,w
+1,LOCATION_NAME,9700000,0.54639175257732,0.103092783505155,0.103092783505155,0.22680412371134,0.0206185567010309,11,1,48,0,1200,1.2,0.0,100000,24
