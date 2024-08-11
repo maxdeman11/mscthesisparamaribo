@@ -22,3 +22,8 @@ This repository is created to support two main parts of the thesis:
 ---
 
 For further details, please refer to the full thesis report once it is available on the TU Delft repository.
+
+## 3. Maps
+
+- The this maps contain cards with indicators for that are crucial for successful implementation throughout Greater Paramaribo. They can be used to identify potential locations.
+
