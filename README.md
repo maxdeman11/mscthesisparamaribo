@@ -19,11 +19,9 @@ This repository is created to support two main parts of the thesis:
 - Simulations exploring the potential impact of NbS under various climate and implementation scenarios for the Wakapasi neighborhood in Paramaribo.
 - Detailed information about the model used for these simulations can be found [here](https://publicwiki.deltares.nl/display/AST/Urban+Water+balance+model).
 
----
-
-For further details, please refer to the full thesis report once it is available on the TU Delft repository.
 
 ## 3. Maps
 
 - The this maps contain cards with indicators for that are crucial for successful implementation throughout Greater Paramaribo. They can be used to identify potential locations.
 
+For further details, please refer to the full thesis report once it is available on the TU Delft repository.
